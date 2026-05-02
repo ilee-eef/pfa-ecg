@@ -23,7 +23,7 @@ The system includes:
 
 ## 🛠 Technologies Used
 - Python
-- cikit-learn
+- Scikit-learn
 - FastAPI
 - HTML / CSS / JavaScript
 - Docker
