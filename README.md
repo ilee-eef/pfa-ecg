@@ -52,4 +52,4 @@ The application is deployed using Hugging Face Spaces.
 ---
 
 ## 👩‍💻 Author
-Ilef Falah – Advanced Technologies Engineering Student
+Ilef Falah & Yasmine Takali – Advanced Technologies Engineering Students
